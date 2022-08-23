@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eeb862b3-4474-420c-bdc4-2f7593b83f00" name="Changes" comment="add Chapter1 HelloWorld">
-      <change afterPath="$PROJECT_DIR$/src/org/java17recipes/chapter01/recipe01_08/DeclarationsExample.java" afterDir="false" />
+    <list default="true" id="eeb862b3-4474-420c-bdc4-2f7593b83f00" name="Changes" comment="add DeclarationsExample">
+      <change afterPath="$PROJECT_DIR$/src/org/java17recipes/chapter01/recipe01_08/VisibilityExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +41,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Fullstack/Backend/java17Recipes",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
@@ -94,6 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660661055779</updated>
+      <workItem from="1661270292204" duration="188000" />
     </task>
     <task id="LOCAL-00001" summary="add Chapter1 HelloWorld">
       <created>1660662418498</created>
@@ -102,8 +105,18 @@
       <option name="project" value="LOCAL" />
       <updated>1660662418498</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add DeclarationsExample">
+      <created>1660673091411</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660673091411</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -118,7 +131,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add Chapter1 HelloWorld" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Chapter1 HelloWorld" />
+    <MESSAGE value="add DeclarationsExample" />
+    <option name="LAST_COMMIT_MESSAGE" value="add DeclarationsExample" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
