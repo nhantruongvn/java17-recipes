@@ -46,7 +46,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.VisibilityExample">
+  <component name="RunManager" selected="Application.StaticFieldsExample">
     <configuration name="DeclarationsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.java17recipes.chapter01.recipe01_08.DeclarationsExample" />
       <module name="java17Recipes" />
@@ -80,6 +80,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StaticFieldsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.java17recipes.chapter01.recipe01_08.StaticFieldsExample" />
+      <module name="java17Recipes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.java17recipes.chapter01.recipe01_08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VisibilityExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.java17recipes.chapter01.recipe01_08.VisibilityExample" />
       <module name="java17Recipes" />
@@ -95,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticFieldsExample" />
         <item itemvalue="Application.VisibilityExample" />
         <item itemvalue="Application.DeclarationsExample" />
         <item itemvalue="Application.HelloWorld" />

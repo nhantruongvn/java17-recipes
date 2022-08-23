@@ -1,6 +1,8 @@
 package org.java17recipes.chapter01.recipe01_08;
 
 class StaticDemo {
+    // static fields
+    //occur only once and with a single value that is shared by all instances of the given class.
     public static boolean oneValueForAllObjects = false;
 }
 
