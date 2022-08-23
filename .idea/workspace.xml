@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eeb862b3-4474-420c-bdc4-2f7593b83f00" name="Changes" comment="add VisibilityExample">
-      <change afterPath="$PROJECT_DIR$/src/org/java17recipes/chapter01/recipe01_08/StaticFieldsExample.java" afterDir="false" />
+    <list default="true" id="eeb862b3-4474-420c-bdc4-2f7593b83f00" name="Changes" comment="add explanation for static field oneValueForAllObjects">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/java17recipes/chapter01/recipe01_08/VisibilityExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/java17recipes/chapter01/recipe01_08/VisibilityExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +124,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660661055779</updated>
-      <workItem from="1661270292204" duration="1002000" />
+      <workItem from="1661270292204" duration="2249000" />
     </task>
     <task id="LOCAL-00001" summary="add Chapter1 HelloWorld">
       <created>1660662418498</created>
@@ -147,7 +147,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661270542186</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add StaticFieldsExample">
+      <created>1661271514563</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661271514563</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add explanation for static field oneValueForAllObjects">
+      <created>1661271769892</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661271769892</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,7 +182,9 @@
     <MESSAGE value="add Chapter1 HelloWorld" />
     <MESSAGE value="add DeclarationsExample" />
     <MESSAGE value="add VisibilityExample" />
-    <option name="LAST_COMMIT_MESSAGE" value="add VisibilityExample" />
+    <MESSAGE value="add StaticFieldsExample" />
+    <MESSAGE value="add explanation for static field oneValueForAllObjects" />
+    <option name="LAST_COMMIT_MESSAGE" value="add explanation for static field oneValueForAllObjects" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

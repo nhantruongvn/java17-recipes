@@ -2,7 +2,15 @@ package org.java17recipes.chapter01.recipe01_08;
 
 class TestClass {
     private long visibleOnlyInThisClass;
+
+    // By default, if no modifier has
+    // been specified, the class or member is made package-private, meaning that only other
+    // classes within the package have access to the member.
+    // If a class member is specified as protected, then it is also package-private,
+    // except that any subclass of its class in another package also has access.
     double visibleFromEntirePackage;
+
+
 
     void setLong (long val) {
         visibleOnlyInThisClass = val;
