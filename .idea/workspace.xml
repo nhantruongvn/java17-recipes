@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eeb862b3-4474-420c-bdc4-2f7593b83f00" name="Changes" comment="add explanation for public/protected/default/private visibility modifiers">
-      <change afterPath="$PROJECT_DIR$/src/org/java17recipes/chapter01/recipe01_09/StringConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/java17recipes/chapter01/recipe01_10/PassingArguments.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/java17recipes/chapter01/recipe01_10/PassingArguments.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,16 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Fullstack/Backend/java17Recipes&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Fullstack/Backend/java17Recipes",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
-  <component name="RunManager" selected="Application.StringConversion">
+}]]></component>
+  <component name="RunManager" selected="Application.PassingArguments">
     <configuration name="DeclarationsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.java17recipes.chapter01.recipe01_08.DeclarationsExample" />
       <module name="java17Recipes" />
@@ -60,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.java17recipes.chapter01.recipe01_05.HelloWorld" />
+    <configuration name="PassingArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.java17recipes.chapter01.recipe01_10.PassingArguments" />
       <module name="java17Recipes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.java17recipes.chapter01.recipe01_05.*" />
+          <option name="PATTERN" value="org.java17recipes.chapter01.recipe01_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PassingArguments" />
         <item itemvalue="Application.StringConversion" />
         <item itemvalue="Application.VisibilityExample" />
         <item itemvalue="Application.StaticFieldsExample" />
         <item itemvalue="Application.DeclarationsExample" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -139,6 +142,9 @@
       <workItem from="1662184058282" duration="1222000" />
       <workItem from="1663385544494" duration="2856000" />
       <workItem from="1663474280018" duration="6000" />
+      <workItem from="1663529275322" duration="490000" />
+      <workItem from="1664609409315" duration="11000" />
+      <workItem from="1664618011136" duration="908000" />
     </task>
     <task id="LOCAL-00001" summary="add Chapter1 HelloWorld">
       <created>1660662418498</created>
@@ -200,6 +206,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add Chapter1 HelloWorld" />
     <MESSAGE value="add DeclarationsExample" />
     <MESSAGE value="add VisibilityExample" />
