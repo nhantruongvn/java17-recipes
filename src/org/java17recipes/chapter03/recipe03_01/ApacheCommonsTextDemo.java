@@ -1,19 +1,14 @@
 package org.java17recipes.chapter03.recipe03_01;
 
-import org.apache.commons.text.StrSubstitutor;
 import org.apache.commons.text.WordUtils;
 import org.apache.commons.text.diff.EditScript;
 import org.apache.commons.text.diff.StringsComparator;
 import org.apache.commons.text.similarity.LongestCommonSubsequence;
 import org.apache.commons.text.translate.UnicodeEscaper;
-import org.junit.Before;
 import org.junit.Test;
-import org.junit.jupiter.api.BeforeAll;
 
-import java.util.HashMap;
-import java.util.Map;
-
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 class ApacheCommonsTextDemo {
 
